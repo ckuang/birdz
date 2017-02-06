@@ -10,4 +10,4 @@
 - What command allows you to generate a seed file?
 - What format does the seed file have to be in?
 - What is the `queryInterface`?
-- What issues
+- What issue with `createdAt` and `updatedAt` do you run into?
